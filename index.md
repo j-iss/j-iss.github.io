@@ -5,10 +5,10 @@
 layout: home
 ---
 
-I am a fourth year PhD student in Computer Science at the University of Oxford, where I am supervised by Leslie Ann Goldberg and Andreas Galanis.
+I am currently part of the Advanced Research Team at Samsung Research UK, where I am working on research at the intersection of deep learning and graph theory.
 
-I am broadly interested in algorithms and complexity. So far, most of my research has focussed on the design and analysis of randomised algorithms for approximate counting. 
+I recently completed my DPhil (PhD) in Computer Science from the University of Oxford in 2022, where I was supervised by Leslie Ann Goldberg and Andreas Galanis in the Algorithms and Complexity group. My PhD research was in the area of randomised algorithms for approximate counting and sampling.
 
-I expect to graduate in the summer of 2022, and am currently looking for postdoctoral research opportunities.
+I obtained my Master’s degree in Mathematics and Computer Science from Imperial College London, in 2017.
 
 My CV can be found [here]({{ site.url }}/assets/cv.pdf).
