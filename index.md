@@ -11,6 +11,6 @@ My research background is in theoretical computer science and the design and ana
 
 For further details on my work and research, see my 
 
-- [CV]({{ site.url }}/assets/cv.pdf),
-- [Google Scholar](https://scholar.google.com/citations?user=xhKj6rQAAAAJ), and
-- [GitHub](https://github.com/j-iss).
+- [CV]({{ site.url }}/assets/cv.pdf)
+- [Google Scholar](https://scholar.google.com/citations?user=xhKj6rQAAAAJ)
+- [GitHub](https://github.com/j-iss)
