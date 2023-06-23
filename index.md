@@ -9,4 +9,8 @@ I recently obtained my PhD in Computer Science from the University of Oxford whe
 
 My research background is in theoretical computer science and the design and analysis of algorithms. My PhD research concerned randomised approximation algorithms for counting and sampling combinatorial structures in graphs, leveraging tools from areas such as graph theory, discrete mathematics, and probability theory. Prior to my PhD, I worked full-time as a C++ Software Engineer at Amadeus, and I obtained my Master's degree in Mathematics and Computer Science from Imperial College London in 2017.
 
-For further details on my work and research, see my [CV]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=xhKj6rQAAAAJ), and [GitHub](https://github.com/j-iss).
+For further details on my work and research, see my 
+
+- [CV]({{ site.url }}/assets/cv.pdf),
+- [Google Scholar](https://scholar.google.com/citations?user=xhKj6rQAAAAJ), and
+- [GitHub](https://github.com/j-iss).
