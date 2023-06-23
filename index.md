@@ -5,10 +5,8 @@
 layout: home
 ---
 
-I am currently part of the Advanced Research Team at Samsung Research, where I am working on research at the intersection of deep learning and graph theory.
+I recently obtained my PhD in Computer Science from the University of Oxford where I worked on randomised algorithms for approximate counting, within the Algorithms and Complexity group. Whilst finishing my PhD, I spent some time as an intern at Samsung Research, working on research at the intersection of deep learning and graph theory. From July - December 2023, I will be joining Amazon as an Applied Scientist Intern. I am open to full-time roles beginning in January 2024, and my interests span areas such as: Algorithms, Operations Research, Machine Learning, and Software Engineering.
 
-I recently completed my DPhil (PhD) in Computer Science at the University of Oxford in 2022, where I was supervised by Leslie Ann Goldberg and Andreas Galanis in the Algorithms and Complexity group. My PhD research was in the area of randomised algorithms for approximate counting and sampling.
+My research background is in theoretical computer science and the design and analysis of algorithms. My PhD research concerned randomised approximation algorithms for counting and sampling combinatorial structures in graphs, leveraging tools from areas such as graph theory, discrete mathematics, and probability theory. Prior to my PhD, I worked full-time as a C++ Software Engineer at Amadeus, and I obtained my Master's degree in Mathematics and Computer Science from Imperial College London in 2017.
 
-I obtained my Master’s degree in Mathematics and Computer Science from Imperial College London, in 2017.
-
-My CV can be found [here]({{ site.url }}/assets/cv.pdf).
+For further details on my work and research, see my [CV]({{ site.url }}/assets/cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=xhKj6rQAAAAJ), and [GitHub](https://github.com/j-iss).
