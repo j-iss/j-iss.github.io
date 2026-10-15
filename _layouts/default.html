@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#faf9f6">
+  <meta name="description" content="James Stewart — computer scientist, Oxford PhD and Applied Scientist. Research in algorithms, optimisation and machine learning.">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="wordmark" href="{{ '/' | relative_url }}">James Stewart<span class="wordmark-dot">.</span></a>
+      <nav aria-label="Main navigation" class="nav">
+        <a href="{{ '/publications/' | relative_url }}" {% if page.url == '/publications/' %}aria-current="page"{% endif %}>Research</a>
+        <a href="{{ '/blog/' | relative_url }}" {% if page.url == '/blog/' %}aria-current="page"{% endif %}>Writing</a>
+        <a href="{{ '/talks/' | relative_url }}" {% if page.url == '/talks/' %}aria-current="page"{% endif %}>Talks</a>
+        <a href="{{ '/assets/cv.pdf' | relative_url }}">CV ↗</a>
+      </nav>
+    </header>
+    <main id="main-content">{{ content }}</main>
+    <footer class="site-footer">
+      <span>© {{ 'now' | date: '%Y' }} James Stewart</span>
+      <div class="footer-links">
+        <a href="https://scholar.google.com/citations?user=xhKj6rQAAAAJ">Google Scholar ↗</a>
+        <a href="https://github.com/j-iss">GitHub ↗</a>
+        <a href="mailto:{{ site.email }}">Email ↗</a>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
